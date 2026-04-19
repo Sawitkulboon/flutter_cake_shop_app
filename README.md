@@ -1,6 +1,4 @@
-<img width="300" alt="localhost_12629_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/dde8a4ac-41f0-47ad-b537-818d25007cfd" /># Mobile Application by Flutter/Dart
-
-<br><br>
+# Mobile Application by Flutter/Dart
  
 ## โปรเจ็ก สายด่วนกินเค้ก
 
